@@ -29,11 +29,9 @@ Telegram：[@lgc2333](https://t.me/lgc2333)
 吹水群：[1105946125](https://jq.qq.com/?_wv=1027&k=Z3n1MpEp)  
 邮箱：<lgc2333@126.com>
 
+<!--
 ## 💡 鸣谢
-
-### [EitherChoice](https://eitherchoice.com/)
-
-- 服务提供
+-->
 
 ## 💰 赞助
 

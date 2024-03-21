@@ -1,0 +1,13 @@
+{
+    "$schema": "https://sereincommunity.github.io/PluginInfoJsonSchema/v1.json",
+    "name": "Phira多人游戏状态群聊通知",
+    "id": "serein-phira-broadcast",
+    "author": "lgc2333",
+    "description": "用于提供Phira的游戏通知",
+    "version": "0.1.0",
+    "targetingSereinVersion": "1.3",
+    "tags": [
+        "entertainment",
+        "management"
+    ]
+}

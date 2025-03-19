@@ -128,6 +128,6 @@ serein.setListener('onServerOutput', (line) => {
 serein.registerPlugin(
   'PhiraBroadcast',
   'v0.1.0',
-  'student_2333',
+  'LgCookie',
   'Phira 服务器状态播报'
 );
